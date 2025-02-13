@@ -1,0 +1,12 @@
+D:\MuruganK\TechProject\Patient.Domain\bin\Debug\net8.0\Patient.Domain.deps.json
+D:\MuruganK\TechProject\Patient.Domain\bin\Debug\net8.0\Patient.Domain.dll
+D:\MuruganK\TechProject\Patient.Domain\bin\Debug\net8.0\Patient.Domain.pdb
+D:\MuruganK\TechProject\Patient.Domain\obj\Debug\net8.0\Patient.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MuruganK\TechProject\Patient.Domain\obj\Debug\net8.0\Patient.Domain.AssemblyInfoInputs.cache
+D:\MuruganK\TechProject\Patient.Domain\obj\Debug\net8.0\Patient.Domain.AssemblyInfo.cs
+D:\MuruganK\TechProject\Patient.Domain\obj\Debug\net8.0\Patient.Domain.csproj.CoreCompileInputs.cache
+D:\MuruganK\TechProject\Patient.Domain\obj\Debug\net8.0\Patient.Domain.sourcelink.json
+D:\MuruganK\TechProject\Patient.Domain\obj\Debug\net8.0\Patient.Domain.dll
+D:\MuruganK\TechProject\Patient.Domain\obj\Debug\net8.0\refint\Patient.Domain.dll
+D:\MuruganK\TechProject\Patient.Domain\obj\Debug\net8.0\Patient.Domain.pdb
+D:\MuruganK\TechProject\Patient.Domain\obj\Debug\net8.0\ref\Patient.Domain.dll

@@ -1,0 +1,13 @@
+D:\MuruganK\TechProject\Patient.Infrastructure\bin\Debug\net8.0\Patient.Infrastructure.deps.json
+D:\MuruganK\TechProject\Patient.Infrastructure\bin\Debug\net8.0\Patient.Infrastructure.dll
+D:\MuruganK\TechProject\Patient.Infrastructure\bin\Debug\net8.0\Patient.Infrastructure.pdb
+D:\MuruganK\TechProject\Patient.Infrastructure\obj\Debug\net8.0\Patient.Infrastructure.csproj.AssemblyReference.cache
+D:\MuruganK\TechProject\Patient.Infrastructure\obj\Debug\net8.0\Patient.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\MuruganK\TechProject\Patient.Infrastructure\obj\Debug\net8.0\Patient.Infrastructure.AssemblyInfoInputs.cache
+D:\MuruganK\TechProject\Patient.Infrastructure\obj\Debug\net8.0\Patient.Infrastructure.AssemblyInfo.cs
+D:\MuruganK\TechProject\Patient.Infrastructure\obj\Debug\net8.0\Patient.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MuruganK\TechProject\Patient.Infrastructure\obj\Debug\net8.0\Patient.Infrastructure.sourcelink.json
+D:\MuruganK\TechProject\Patient.Infrastructure\obj\Debug\net8.0\Patient.Infrastructure.dll
+D:\MuruganK\TechProject\Patient.Infrastructure\obj\Debug\net8.0\refint\Patient.Infrastructure.dll
+D:\MuruganK\TechProject\Patient.Infrastructure\obj\Debug\net8.0\Patient.Infrastructure.pdb
+D:\MuruganK\TechProject\Patient.Infrastructure\obj\Debug\net8.0\ref\Patient.Infrastructure.dll

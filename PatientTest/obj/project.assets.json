@@ -8111,23 +8111,23 @@
     },
     "Patient.Application/1.0.0": {
       "type": "project",
-      "path": "../../Patient.Application/Patient.Application.csproj",
-      "msbuildProject": "../../Patient.Application/Patient.Application.csproj"
+      "path": "../Patient.Application/Patient.Application.csproj",
+      "msbuildProject": "../Patient.Application/Patient.Application.csproj"
     },
     "Patient.Domain/1.0.0": {
       "type": "project",
-      "path": "../../Patient.Domain/Patient.Domain.csproj",
-      "msbuildProject": "../../Patient.Domain/Patient.Domain.csproj"
+      "path": "../Patient.Domain/Patient.Domain.csproj",
+      "msbuildProject": "../Patient.Domain/Patient.Domain.csproj"
     },
     "Patient.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../../Patient.Infrastructure/Patient.Infrastructure.csproj",
-      "msbuildProject": "../../Patient.Infrastructure/Patient.Infrastructure.csproj"
+      "path": "../Patient.Infrastructure/Patient.Infrastructure.csproj",
+      "msbuildProject": "../Patient.Infrastructure/Patient.Infrastructure.csproj"
     },
     "Patient.Presentation/1.0.0": {
       "type": "project",
-      "path": "../../Patient.Presentation/Patient.Presentation.csproj",
-      "msbuildProject": "../../Patient.Presentation/Patient.Presentation.csproj"
+      "path": "../Patient.Presentation/Patient.Presentation.csproj",
+      "msbuildProject": "../Patient.Presentation/Patient.Presentation.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8173,8 +8173,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\MuruganK\\TechProject\\Patient.Presentation\\Patient.Presentation.csproj": {
-              "projectPath": "D:\\MuruganK\\TechProject\\Patient.Presentation\\Patient.Presentation.csproj"
+            "D:\\MuruganK\\TechProject\\HospitalManagement\\Patient.Presentation\\Patient.Presentation.csproj": {
+              "projectPath": "D:\\MuruganK\\TechProject\\HospitalManagement\\Patient.Presentation\\Patient.Presentation.csproj"
             }
           }
         }
