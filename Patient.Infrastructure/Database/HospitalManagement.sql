@@ -36,3 +36,18 @@ BEGIN
 
 END
 GO
+
+----------------------------------------------------------------
+
+
+CREATE PROCEDURE [dbo].[GetPatients]
+	@RowFrom INT = 0,
+	@RowCount INT = 10
+AS
+BEGIN
+	
+	SELECT *FROM Patient 
+	ORDER BY Id
+	OFFSET @RowFrom ROWS FETCH NEXT @RowCount ROWS ONLY;
+
+END
