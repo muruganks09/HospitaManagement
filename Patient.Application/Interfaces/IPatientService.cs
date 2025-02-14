@@ -12,6 +12,10 @@ namespace Patient.Application
 
         Task<Patients> GetByPatientId(string patientId);   
 
-        Task<Patients> Insert(Patients patient);  
+        Task<Patients> Insert(Patients patient);
+
+        Task<IList<Patients>> GetPatientList(long rowFrom, long rowCount);
+
+        Task<Patients> Delete(string patiendId);
     }
 }
