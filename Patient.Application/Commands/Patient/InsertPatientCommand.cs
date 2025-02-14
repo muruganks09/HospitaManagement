@@ -14,7 +14,7 @@ namespace Patient.Application.Commands.Patient
     {
         readonly Patients _patient;
 
-        public InsertPatientCommand(Patients patient) 
+        public InsertPatientCommand(Patients patient)
         {
             _patient = patient;
         }
@@ -25,8 +25,22 @@ namespace Patient.Application.Commands.Patient
 
             uow.BeginTransaction();
 
+            //Check if patient already exists (PatientId). If does not exist insert patient
+            var current = await dbContext.Patient.GetByPatientId(_patient.PatientId);
 
-            await dbContext.Patient.InsertPatient(_patient);
+            if (current != null)
+            {
+                current.Name = _patient.Name;
+                current.PhoneNumber = _patient.PhoneNumber;
+                current.DiseaseName = _patient.DiseaseName;
+                current.DateOfBirth = _patient.DateOfBirth;
+
+                await dbContext.Patient.UpdatePatient(current);
+            }
+            else
+            {
+                await dbContext.Patient.InsertPatient(_patient);
+            }
 
             uow.Commit();
 

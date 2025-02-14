@@ -28,5 +28,14 @@ namespace Patient.Application.Services
             return await Execute(new InsertPatientCommand(patient));
         }
 
+        public async Task<IList<Patients>> GetPatientList(long rowFrom, long rowCount)
+        {
+            return await Execute(new GetPatientListCommand(rowFrom, rowCount)); 
+        }
+
+        public async Task<Patients> Delete(string patiendId)
+        {
+            return await Execute(new DeletePatientCommand(patiendId));
+        }
     }
 }
